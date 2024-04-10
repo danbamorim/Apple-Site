@@ -1,3 +1,3 @@
 # Apple Site 
 
-Página clone do Iphone 13 Pro inspirado no projeto do Matheus Battisti da udemy 
+Clone da página do iPhone 13 com as mesmas funcionaliades, inspirado no projeto do curso de Matheus Battisti - Hora de Cordar
